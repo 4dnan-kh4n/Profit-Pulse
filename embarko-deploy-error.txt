@@ -1,0 +1,2 @@
+curl: (6) Could not resolve host: profit-pulse-mak22-app
+curl: (6) Could not resolve host: codex

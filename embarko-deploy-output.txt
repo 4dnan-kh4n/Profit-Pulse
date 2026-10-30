@@ -1,0 +1,6 @@
+{"error":"Invalid or missing X-App-Name header. Use lowercase letters, digits and dashes.","code":"invalid_app_name","next":"Use 3-63 lowercase letters, digits and dashes, not starting or ending with a dash.","links":{"feedback":"https://ship.embarko.ai/api/public/customer-query"}}
+HTTP_STATUS:400
+
+HTTP_STATUS:000
+
+HTTP_STATUS:000

@@ -1,0 +1,14 @@
+HTTP/1.1 100 Continue
+
+HTTP/1.1 202 Accepted
+Access-Control-Expose-Headers: X-Request-Id
+Content-Length: 574
+Content-Type: application/json; charset=utf-8
+Date: Fri, 30 Oct 2026 07:31:57 GMT
+Etag: W/"23e-3Ter3C/MCrUYm61tFg2PpDvqnNQ"
+Ratelimit: limit=10, remaining=9, reset=60
+Ratelimit-Policy: 10;w=60
+Vary: Origin
+X-Powered-By: Express
+X-Request-Id: 56e0ffaf-c614-480b-8d80-acb89cc0de7c
+
